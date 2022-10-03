@@ -438,9 +438,14 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_294.5.jpg"
   },
 	{
-  "name": "Boeing 737-800 (Ethiopian Cargo) by Jaiden",
+  "name": "Boeing 737-800 (Ethiopian Cargo) by Jaden",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/b597aa3fe2b5d76d6ed4aa8b6628e01fe57483f5/texture%20295.5.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/b597aa3fe2b5d76d6ed4aa8b6628e01fe57483f5/texture%20295.5.jpg"
+  },
+{
+  "name": "Boeing 737-800 (Freedom One Southwest) by Yair Galan",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/FRDM1%20Southwest%20738.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/FRDM1%20Southwest%20738.jpg"
   },
  {
   "name": "Boeing P8 Poseidon (US Navy)",
