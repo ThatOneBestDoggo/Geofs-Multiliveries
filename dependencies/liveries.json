@@ -462,7 +462,21 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_298.5.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_298.5.jpg"
   },
-	
+{
+  "name": "Boeing 737-800 (Avelo) by coolpilot11",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Avelo%20737.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Avelo%20737.jpg"
+  },
+{
+  "name": "Boeing 737-800 (DHL) by coolpilot11",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/DHL%20737.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/DHL%20737.png"
+  },
+{
+  "name": "Boeing 737-800 (REX) by coolpilot11",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/REX%20737.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/REX%20737.png"
+  },
  {
   "name": "Boeing P8 Poseidon (US Navy)",
   "livery": "1.1",
